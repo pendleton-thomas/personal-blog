@@ -8,13 +8,13 @@
 * Hawaii
 
 ### Favorite Foods
-1.  pizza
-2. captain crunch
-3. is there more food?
+1. Pizza
+2. Captain Crunch
+3. Is there more food?
 
 ### Hobbies
-1. Snowboarding
-2. Reading
-3. Hiking
-4. Piano
-5. Welding
+* Running
+* Rock Climbing
+* Mountain Climbing
+* Reading
+* Dog Things
